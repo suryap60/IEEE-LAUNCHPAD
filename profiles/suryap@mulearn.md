@@ -16,8 +16,7 @@ enthusiasm for continuous learning in a dynamic and innovative environment.
                                                                      streamlining interactions and transactions. Administrators manage the platform, shop owners handle
                                                                      business operations, and artists manage feedback. Created by using python, flutter, android studio,
                                                                      MySQL.
-                                                                                             
-| **Online Bicycle Rental System **                                | Bicycle rental systems provide a low-effort and ecologically beneficial means of transportation
+                                                                                            | **Online Bicycle Rental System**|Online Bicycle rental systems provide a low-effort and ecologically beneficial means of transportation
                                                                      for short distances.This  scheme is smart bicycle renting scheme in which GPS tracking,  QR  scanning, 
                                                                      online payment, automatic locking/unlocking through android  application,and all features on just one 
                                                                      web application. And also provide mechanic information tap for support in case of any need.
