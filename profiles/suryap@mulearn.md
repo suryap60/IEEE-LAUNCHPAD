@@ -43,6 +43,16 @@ May 2024
 “Style Rental & Glam Book: Your Fashion and Beauty Concierge”. In: IRJMET
 
 
+#### Skills
+###### Technical Skills
+Programming Languages: Python,C,Java,Dart
+Web Development: HTML,CSS
+Tool: Git
+
+###### Professional Skills
+Leadership,Teamwork,Presentation
+
+
 #### Competitive Website
 - [Linkedin](https://www.linkedin.com/in/surya-p-a690b32b0?trk=contact-info)
 - [Github](https://github.com/suryap60)
